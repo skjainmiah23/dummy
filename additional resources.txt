@@ -1,0 +1,23 @@
+Basics of Python:
+----------------------------------------------------------------------------
+https://www.w3schools.com/python/python_datatypes.asp
+https://greenteapress.com/wp/think-python-2e/
+https://docs.python-guide.org/intro/learning/
+https://python.swaroopch.com/
+https://gist.github.com/kidpixo/f4318f8c8143adee5b40
+https://runestone.academy/runestone/books/published/pythonds/index.html
+http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/
+https://ipython.readthedocs.io/en/stable/interactive/magics.html
+https://www.w3schools.com/python/python_datatypes.asp
+https://www.youtube.com/watch?v=QC_Wpj_cJKM
+http://www.practicepython.org/exercise/2014/01/29/01-character-input.html
+
+
+
+
+Data structures in Python:
+--------------------------------------------------------------------------
+
+
+
+
